@@ -284,3 +284,5 @@ for i in range(1000):
 
 # Disconnect
 p.disconnect()
+
+pip install transformers tensorflow numpy loguru nest_asyncio z3-solver pybullet
